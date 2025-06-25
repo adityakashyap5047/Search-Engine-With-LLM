@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: Search Engine With LLM
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: search with the help of llm
+license: apache-2.0
 ---
 
 # Welcome to Streamlit!
